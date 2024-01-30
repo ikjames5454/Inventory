@@ -1,0 +1,49 @@
+body{
+    background-image: url("image_storage/what-you-need-know-managing.webp");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.products{
+    display: flex;
+}
+.quantities{
+    display: flex;
+}
+.main{
+    background-color: lightblue;
+    width: 1500px;
+    padding: 20px;
+    border-radius: 10px;
+
+}
+h1{
+    font-size: 50px;
+    font-family: Roboto, Ariel, serif;
+}
+.input{
+    padding: 0 384px;
+    height: 80px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 10px;
+    border: none;
+    font-size: 30px;
+
+
+}
+.inputs{
+    padding: 0 22%;
+    height: 80px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 10px;
+    border: none;
+    font-size: 30px;
+
+}
